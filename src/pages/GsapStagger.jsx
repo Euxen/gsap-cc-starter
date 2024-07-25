@@ -13,8 +13,8 @@ const GsapStagger = () => {
       borderRadius: "100%",
       // stagger: 0.5,
       stagger: {
-        amount: 2.5, // 2.5 seconds
-        grid: [1, 2], // 1 column, 2 rows
+        amount: 1.5, // 2.5 seconds
+        grid: [2, 1], // 2 columns, 1 row
         axis: "y", // vertical
         ease: "circ.inOut", // circular easing
       
